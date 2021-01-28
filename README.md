@@ -1,4 +1,4 @@
-# epic-2-finaltermoutput-Espino
+
 // MANDALA MIDTERM
 // ESPINO, DYZZA 
 // BSEMC 2A
